@@ -1,6 +1,6 @@
 # RCPSP – Streamlit-Demo
 
-**[→ Demo live ausprobieren](#) (Deploy offen)**
+**[→ Demo live ausprobieren](https://sebastianhanisch-rcpsp-demo.streamlit.app/)**
 
 Elftes und **letztes** Stück der **Klassische-Scheduling-Theorie-Linie** der "Konzepte"-Reihe für die Website
 "Sebastian Hanisch – Operations Research und Machine Learning", der **wachsende Endpunkt**: statt einer neuen
